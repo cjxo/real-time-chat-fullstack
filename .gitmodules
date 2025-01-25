@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/cjxo/real-time-chat-client/
+[submodule "server"]
+	path = server
+	url = https://github.com/cjxo/real-time-chat-server
